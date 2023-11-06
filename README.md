@@ -1,10 +1,11 @@
 Hi there!
 My name is Mikhail
 ===============================================================================================================================
-
-I'm a Python Developer
+Python Developer
 ----------------
-
+### About me:
+* :snake: I'm currently learning **Python**
+* :seedling: Regularly practicing, studying and growing up
 * 🌍  I'm based in Belgrade
 * 📬 You can reach me by [![Linkedin Badge](https://img.shields.io/badge/-BezrezenTLNH-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bezrezentlnh/), [email](mailto:bezrezen97@gmail.com)
 
