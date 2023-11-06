@@ -9,7 +9,7 @@ Python Developer
 * :seedling: Regularly practicing, studying and growing up
 * 🌍  I'm based in **Belgrade**
 * 📬 You can reach me by:
-* [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bezrezentlnh/) [![Gmail Badge](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bezrezen97@gmail.com) [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)]([https://t.me/Vrogir](https://t.me/BezrezenTLNH))
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bezrezentlnh/) [![Gmail Badge](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bezrezen97@gmail.com) [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)]([https://t.me/Vrogir](https://t.me/BezrezenTLNH))
 ### Languages and Tools:
 
 
