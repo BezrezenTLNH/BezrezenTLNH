@@ -29,7 +29,7 @@ I'm a Python Developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BezrezenTLNH&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Codewars](https://www.codewars.com/users/Bezrezen_TLNH/badges/large)]
+![Codewars](https://www.codewars.com/users/Bezrezen_TLNH/badges/large)
 
 <!---
 BezrezenTLNH/BezrezenTLNH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
