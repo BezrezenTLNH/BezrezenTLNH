@@ -6,8 +6,7 @@ I'm a Python Developer
 ----------------
 
 * 🌍  I'm based in Belgrade
-* 📬 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-BezrezenTLNH-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bezrezentlnh/)
-* My 
+* 📬 You can reach me by [![Linkedin Badge](https://img.shields.io/badge/-BezrezenTLNH-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bezrezentlnh/), [email](mailto:bezrezen97@gmail.com)
 
 ### Languages and Tools:
 
@@ -29,6 +28,7 @@ I'm a Python Developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BezrezenTLNH&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<b>My Codewars Stats</b>
 ![Codewars](https://www.codewars.com/users/Bezrezen_TLNH/badges/large)
 
 <!---
