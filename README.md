@@ -7,8 +7,7 @@ Python Developer
 * :snake: I'm currently learning **Python**
 * :seedling: Regularly practicing, studying and growing up
 * 🌍  I'm based in Belgrade
-* 📬 You can reach me by [![Linkedin Badge](https://img.shields.io/badge/-BezrezenTLNH-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bezrezentlnh/), [email](mailto:bezrezen97@gmail.com)
-
+* 📬 You can reach me by [![Linkedin Badge](https://img.shields.io/badge/-BezrezenTLNH-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bezrezentlnh/),[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bezrezen97@gmail.com)
 ### Languages and Tools:
 
 
