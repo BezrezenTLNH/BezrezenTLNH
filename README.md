@@ -5,7 +5,7 @@ Python Developer
 ----------------
 ### About me:
 * :male_detective: At this moment working as a purchasing analyst and I am currently looking for a job as a *Junior/Junior+* Python Developer
-* :snake: I'm currently learning **Python**
+* :snake: I've graduated from my **Python** courses but still learning a lot of backend developer stuff, like: Docker + Kubernetes, aiogramm3, React
 * :seedling: Regularly practicing, studying and growing up
 * 🌍  I'm based in **Belgrade**
 * 📬 You can reach me by:
