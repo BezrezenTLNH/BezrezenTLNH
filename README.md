@@ -4,7 +4,7 @@ My name is Mikhail
 Python Developer
 ----------------
 ### About me:
-* :male_detective: At this moment working as a purchasing analyst and I am currently looking for a job as a *Junior/Junior+* Python Developer
+* :male_detective: At this moment, I am working as a python Developer in  [RDA](https://rda.team/) and I am currently looking for a job as a *Middle* Python Developer
 * :snake: I've graduated from my **Python** courses but still learning a lot of backend developer stuff, like: Docker + Kubernetes, aiogram3, Celery, Redis, etc
 * :seedling: Regularly practicing, studying and growing up
 * 🌍  I'm based in **Belgrade**
