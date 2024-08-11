@@ -5,7 +5,7 @@ Python Developer
 ----------------
 ### About me:
 * :male_detective: At this moment, I am working as a python Developer in  [RDA](https://rda.team/) and I am currently looking for a job as a *Middle* Python Developer
-* :snake: I've graduated from my **Python** courses but still learning a lot of backend developer stuff, like: AWS, PyTorch, TensorFlow FastAPI, Celery, Redis, etc
+* :snake: I've graduated from my **Python** courses but still learning a lot of backend developer stuff, like: AWS, PyTorch, TensorFlow, FastAPI, Celery, Redis, etc
 * :seedling: Regularly practicing, studying and growing up
 * 🌍  I'm based in **Belgrade**
 * 📬 You can reach me by:
