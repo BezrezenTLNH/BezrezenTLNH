@@ -4,8 +4,7 @@ My name is Mikhail
 Python Developer
 ----------------
 ### About me:
-* :male_detective: At this moment, I am working as a python Developer in  [RDA](https://rda.team/) and I am currently looking for a job as a *Middle* Python Developer
-* :snake: I've graduated from my **Python** courses but still learning a lot of backend developer stuff, like: AWS, PyTorch, TensorFlow, FastAPI, Celery, Redis, etc
+* :male_detective: Python Developer with 3 years of experience in fast-paced tech environments, delivering scalable backend systems and data pipelines.
 * :seedling: Regularly practicing, studying and growing up
 * 🌍  I'm based in **Belgrade**
 * 📬 You can reach me by:
@@ -21,16 +20,6 @@ Python Developer
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/bezrezentlnh/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=BezrezenTLNH&theme=dark&hide_border=true&border_radius=10&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BezrezenTLNH&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<b>My Codewars Stats</b>
 
 ![Codewars](https://www.codewars.com/users/Bezrezen_TLNH/badges/large)
 
